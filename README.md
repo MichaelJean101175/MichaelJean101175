@@ -57,13 +57,14 @@ Passionate about building **secure**, **scalable**, **automation-driven** digita
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MichaelJean101175&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelJean101175&theme=tokyonight&hide_border=true" />
+  <!-- GitHub Stats -->
+  <img height="160" src="https://github-readme-stats-mu-silk.vercel.app/api?username=MichaelJean101175&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <!-- Streak Stats -->
+  <img height="160" src="https://streak-stats.demolab.com/?user=MichaelJean101175&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelJean101175&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ---
 
