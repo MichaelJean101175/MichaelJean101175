@@ -126,7 +126,6 @@ Passionate about building **secure**, **scalable**, **automation-driven** digita
 - Building secure, automated Microsoft 365 ecosystems  
 
 ---
-
 # 📬 Connect With Me
 
 <p align="left">
@@ -148,7 +147,16 @@ Passionate about building **secure**, **scalable**, **automation-driven** digita
 
 </p>
 
+<br/>
+
 <p align="center">
-  ⭐️ <strong>Thanks for visiting! Feel free to connect with me anytime!</strong>
+
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=MichaelJean101175&style=for-the-badge&label=Visitors&color=blue" />
+
+</p>
+
+<p align="center">
+  ⭐️ <strong>Thanks for visiting! Feel free to connect anytime.</strong>
 </p>
 
